@@ -1,0 +1,1 @@
+import{_ as e,el as t,em as r}from"../index-961d4ed1.js";const n=()=>{const a=r(15,30);return e("div",{className:"animate-pulse text-primary-200 dark:text-primary-700"},void 0,e("p",{},void 0,t(a)))};export{n as P};

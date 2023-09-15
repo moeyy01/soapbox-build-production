@@ -1,0 +1,1 @@
+import{r as o,ey as s}from"../index-961d4ed1.js";import{u as i}from"./header-picker-3bbb9670.js";function f(e={}){const[r,n]=o.useState();return{src:i(r)||(r===null?void 0:e.preview),file:r,onChange:async a=>{const t=a==null?void 0:a.item(0);t&&(typeof e.maxPixels=="number"?n(await s(t,e.maxPixels)):n(t))},onClear:()=>n(null)}}export{f as u};

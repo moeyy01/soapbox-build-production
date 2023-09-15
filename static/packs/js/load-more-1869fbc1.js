@@ -1,0 +1,1 @@
+import{_ as a,K as l,af as d}from"../index-961d4ed1.js";const m=t=>{let{onClick:r,disabled:s,visible:e=!0,className:o}=t;return e?a(d,{className:o,theme:"primary",block:!0,disabled:s||!e,onClick:r},void 0,a(l,{id:"status.load_more",defaultMessage:"Load more"})):null};export{m as L};

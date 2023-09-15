@@ -1,0 +1,1 @@
+import{aV as c,_ as r,a8 as i}from"../index-961d4ed1.js";import n from"./crypto-address-007e2305.js";const d=a=>{let{limit:t}=a;const{cryptoAddresses:o}=c(),s=typeof t=="number"?o.take(t):o;return r(i,{space:4},void 0,s.map(e=>r(n,{address:e.address,ticker:e.ticker,note:e.note},e.ticker)))};export{d as S};

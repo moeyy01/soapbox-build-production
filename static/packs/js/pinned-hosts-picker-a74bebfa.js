@@ -1,0 +1,1 @@
+import{d as i,_ as s,af as c,H as o}from"../index-961d4ed1.js";const l=n=>{let{host:a}=n;const t=i().getIn(["remote_timeline","pinnedHosts"]);return!t||t.isEmpty()?null:s(o,{className:"mb-4",space:2},void 0,t.map(e=>s(c,{to:`/timeline/${e}`,size:"sm",theme:e===a?"accent":"secondary"},e,e)))};export{l as P};

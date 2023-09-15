@@ -1,0 +1,1 @@
+import{en as r,r as e,eo as n,_ as t,aP as c,aE as u}from"../index-961d4ed1.js";const i=()=>{const a=r(),[s,o]=e.useState(!1);return e.useEffect(()=>{a(n()).then(()=>o(!0)).catch(console.warn)},[]),s?t(c,{to:"/"}):t(u,{})};export{i as default};

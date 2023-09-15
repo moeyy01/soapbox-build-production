@@ -1,0 +1,1 @@
+import{_ as n,R as l,ay as s,bv as m}from"../index-961d4ed1.js";const c=t=>{let{onClose:e,component:o,componentProps:a={}}=t;return n(m,{onClose:e,title:""},void 0,l.createElement(o,s({onClose:e},a)))};export{c as default};

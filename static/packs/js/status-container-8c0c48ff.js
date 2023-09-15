@@ -1,0 +1,1 @@
+import{r as o,aN as u,p as l,R as p,cp as S,ay as i}from"../index-961d4ed1.js";const x=e=>{const{id:s,contextType:a,...r}=e,n=o.useCallback(u(),[]),t=l(c=>n(c,{id:s,contextType:a}));return t?p.createElement(S,i({status:t},r)):null};export{x as S};

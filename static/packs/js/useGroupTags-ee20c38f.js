@@ -1,0 +1,1 @@
+import{bk as i,bl as n,bn as r,jI as u}from"../index-961d4ed1.js";function p(s){const t=i(),{entities:e,...a}=n([r.GROUP_TAGS,s],()=>t.get(`/api/v1/truth/trends/groups/${s}/tags`),{schema:u});return{...a,tags:e}}export{p as u};
